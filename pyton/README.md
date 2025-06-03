@@ -22,5 +22,5 @@ python calculator.py
 4. Postępuj zgodnie z instrukcjami na ekranie.
 
 ## Autor
-Imię i nazwisko: Bartłomiej Świerżewski
+Imię i nazwisko:Ewa Skrzypko
 Grupa: Informatyka stosowana
