@@ -22,5 +22,5 @@ python calculator.py
 4. Postępuj zgodnie z instrukcjami na ekranie.
 
 ## Autor
-Imię i nazwisko: **[TU WPISZ SWOJE IMIĘ I NAZWISKO]**  
-Grupa: **[NP. RPiS 2/5]**
+Imię i nazwisko: Bartłomiej Świerżewski
+Grupa: Informatyka stosowana
